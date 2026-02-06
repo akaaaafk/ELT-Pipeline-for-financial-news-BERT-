@@ -38,6 +38,7 @@ desktop.ini
 gold.csv
 All_external.csv
 silver_with_sentiment_sample.csv
+gold_with_sentiment_sample.csv
 flask/gold_with_sentiment_sample.csv
 # output.csv
 # *.parquet
