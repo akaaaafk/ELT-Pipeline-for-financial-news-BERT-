@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+.env
+*.egg-info/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Large data & model caches (optional: remove from .gitignore if you want to track)
+layer/
+models/
+
+# Office temp files
+~$*
+~$$*
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Large outputs (uncomment if you don't want to push)
+# output.csv
+# All_external.csv
+# *.parquet
