@@ -34,7 +34,10 @@ desktop.ini
 *.swp
 *.swo
 
-# Large outputs (uncomment if you don't want to push)
+# Large CSV/data (exceed GitHub 100MB limit)
+gold.csv
+All_external.csv
+silver_with_sentiment_sample.csv
+flask/gold_with_sentiment_sample.csv
 # output.csv
-# All_external.csv
 # *.parquet
